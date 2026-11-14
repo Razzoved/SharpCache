@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <Authors>Jan (razzoved) Martinek</Authors>
+    <Version>1.0.0</Version>
+    <PackageTags>sharpcache cache</PackageTags>
+    <PackageProjectUrl>https://github.com/Razzoved/SharpPacker</PackageProjectUrl>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+  </PropertyGroup>
+</Project>
