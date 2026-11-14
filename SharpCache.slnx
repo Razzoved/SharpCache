@@ -8,4 +8,7 @@
     <Folder Name="/src/">
         <Project Path="src/SharpCache.Memory/SharpCache.Memory.csproj" />
     </Folder>
+    <Folder Name="/tests/">
+        <Project Path="tests/SharpCache.Memory.Tests/SharpCache.Memory.Tests.csproj" />
+    </Folder>
 </Solution>
